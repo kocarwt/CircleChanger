@@ -478,7 +478,7 @@ class CircleChanger(object):
         self.number = self.number + 1
 
 ########################################################################
-# The TEST functions for the  CircleChanger  class begin here.
+# The TE ST functions for the  CircleChanger  class begin here.
 ########################################################################
 
 def run_test_init():
